@@ -1,0 +1,1 @@
+# ValidadorBandeirasCart-oCopilot
